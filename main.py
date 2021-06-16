@@ -159,5 +159,5 @@ def foo():
     return 'success', 200
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
 # text_to_info("21/03/1887")
